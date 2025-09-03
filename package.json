@@ -55,7 +55,7 @@
     "@types/styled-jsx": "^2.2.8",
     "babel-plugin-import": "^1.13.3",
     "customize-cra": "^1.0.0",
-    "esbuild": "^0.12.17",
+    "esbuild": "^0.25.9",
     "jest": "^26.6.0",
     "react-app-rewired": "^2.1.6",
     "ts-node": "^10.0.0"
